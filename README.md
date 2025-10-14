@@ -24,23 +24,11 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wsnc-lst&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wsnc-lst&theme=tokyonight" alt="GitHub streak" height="150" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsnc-lst&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wsnc-lst/wsnc-lst/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 👀 Visitor Counter
 <p align="center">
