@@ -6,21 +6,6 @@
 
 </div>
 
-## 📫 Connect with me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://YOUR-PORTFOLIO.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats & Activity
 
