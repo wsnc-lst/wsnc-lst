@@ -6,6 +6,11 @@
 
 </div>
 
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,vue,nuxt,postgresql,mysql,git,github,vscode" />
+</p>
 
 ## 📊 GitHub Stats & Activity
 
