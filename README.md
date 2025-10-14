@@ -1,8 +1,11 @@
-<div align="center">
 
 # 👋 Hey, I'm Wisanucha Lerksunthea – Call me "Book"
 
-![Software Developer]("https://raw.githubusercontent.com/wsnc-lst/wsnc-lst/main/skills.svg")
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/wsnc-lst/wsnc-lst/main/skills.svg" alt="Software Developer" />
+</div>
+
 
 
 </div>
