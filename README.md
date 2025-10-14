@@ -20,9 +20,6 @@
 </p>
 
 
-## 👀 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wsnc-lst&style=for-the-badge&color=brightgreen" alt="Profile views" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsnc-lst&theme=tokyo-night" />
 </p>
-
----
