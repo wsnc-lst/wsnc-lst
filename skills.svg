@@ -1,33 +1,25 @@
-<svg width="800" height="150" viewBox="0 0 800 150" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
     @keyframes glow {
-      0%, 100% { filter: drop-shadow(0 0 10px #ff00ff); }
-      25% { filter: drop-shadow(0 0 10px #00ffff); }
-      50% { filter: drop-shadow(0 0 10px #00ff00); }
-      75% { filter: drop-shadow(0 0 10px #ffff00); }
+      0%, 100% { filter: drop-shadow(0 0 8px #ff00ff); }
+      25% { filter: drop-shadow(0 0 8px #00ffff); }
+      50% { filter: drop-shadow(0 0 8px #00ff00); }
+      75% { filter: drop-shadow(0 0 8px #ffff00); }
     }
-
     @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(8px); }
+      from { opacity: 0; transform: translateY(10px); }
       to { opacity: 1; transform: translateY(0); }
     }
-
     text {
       font-family: 'Press Start 2P', monospace;
-      font-size: 26px;
+      font-size: 22px;
       fill: url(#rainbowGradient);
-      animation: glow 3.5s infinite linear;
-      text-anchor: middle;
+      animation: glow 4s infinite linear;
     }
-
     tspan {
       opacity: 0;
-      animation: fadeIn 0.5s ease forwards;
+      animation: fadeIn 0.6s ease forwards;
     }
-
-    /* ตัวอักษรจะโผล่มาทีละตัว */
     tspan:nth-child(1) { animation-delay: 0.1s; }
     tspan:nth-child(2) { animation-delay: 0.2s; }
     tspan:nth-child(3) { animation-delay: 0.3s; }
@@ -44,6 +36,7 @@
     tspan:nth-child(14) { animation-delay: 1.4s; }
     tspan:nth-child(15) { animation-delay: 1.5s; }
     tspan:nth-child(16) { animation-delay: 1.6s; }
+    tspan:nth-child(17) { animation-delay: 1.7s; }
   </style>
 
   <defs>
@@ -57,9 +50,9 @@
     </linearGradient>
   </defs>
 
-  <text x="50%" y="85">
+  <text x="50" y="70">
     <tspan>S</tspan><tspan>o</tspan><tspan>f</tspan><tspan>t</tspan><tspan>w</tspan><tspan>a</tspan><tspan>r</tspan><tspan>e</tspan>
-    <tspan dx="20"></tspan>
+    <tspan dx="10"></tspan>
     <tspan>D</tspan><tspan>e</tspan><tspan>v</tspan><tspan>e</tspan><tspan>l</tspan><tspan>o</tspan><tspan>p</tspan><tspan>e</tspan><tspan>r</tspan>
   </text>
 </svg>
