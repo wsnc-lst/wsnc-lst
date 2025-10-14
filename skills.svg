@@ -1,36 +1,40 @@
-<svg viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="3" flood-color="#ffffff" flood-opacity="0.6"/>
+    </filter>
     <style>
-      text { font-family: monospace; font-size: 24px; font-weight: bold; fill: #000; }
+      .letter {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 28px;
+        font-weight: bold;
+        opacity: 0;
+        transform: translateY(20px);
+        filter: url(#glow);
+        animation: fadeInUp 0.8s ease-out forwards;
+      }
+      @keyframes fadeInUp {
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
     </style>
   </defs>
-  <text x="10" y="35" id="text">
-    <tspan id="F" x="10" y="35" fill="#FF0000">F</tspan>
-    <tspan id="u" x="40" y="35" fill="#00FF00">u</tspan>
-    <tspan id="l" x="60" y="35" fill="#0000FF">l</tspan>
-    <tspan id="l2" x="80" y="35" fill="#FF00FF">l</tspan>
-    <tspan id="s" x="100" y="35" fill="#FFFF00">s</tspan>
-    <tspan id="t" x="130" y="35" fill="#FF8000">t</tspan>
-    <tspan id="a" x="150" y="35" fill="#00FFFF">a</tspan>
-    <tspan id="c" x="170" y="35" fill="#FF69B4">c</tspan>
-    <tspan id="k" x="190" y="35" fill="#32CD32">k</tspan>
-    <tspan id="space" x="210" y="35" fill="transparent"> </tspan>
-    <tspan id="D" x="230" y="35" fill="#FF4500">D</tspan>
-    <tspan id="e" x="260" y="35" fill="#4B0082">e</tspan>
-    <tspan id="v" x="280" y="35" fill="#FFD700">v</tspan>
-  </text>
   
-  <!-- Animate opacity สำหรับ fade in ทีละตัว -->
-  <animate xlink:href="#F" attributeName="opacity" from="0" to="1" begin="0s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#u" attributeName="opacity" from="0" to="1" begin="0.5s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#l" attributeName="opacity" from="0" to="1" begin="1s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#l2" attributeName="opacity" from="0" to="1" begin="1.5s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#s" attributeName="opacity" from="0" to="1" begin="2s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#t" attributeName="opacity" from="0" to="1" begin="2.5s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#a" attributeName="opacity" from="0" to="1" begin="3s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#c" attributeName="opacity" from="0" to="1" begin="3.5s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#k" attributeName="opacity" from="0" to="1" begin="4s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#D" attributeName="opacity" from="0" to="1" begin="4.5s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#e" attributeName="opacity" from="0" to="1" begin="5s" dur="0.5s" fill="freeze"/>
-  <animate xlink:href="#v" attributeName="opacity" from="0" to="1" begin="5.5s" dur="0.5s" fill="freeze"/>
+  <g>
+    <text class="letter" x="10" y="50" fill="#FFB6C1" style="animation-delay: 0.1s;">F</text>
+    <text class="letter" x="45" y="50" fill="#ADD8E6" style="animation-delay: 0.4s;">u</text>
+    <text class="letter" x="75" y="50" fill="#98FB98" style="animation-delay: 0.7s;">l</text>
+    <text class="letter" x="105" y="50" fill="#98FB98" style="animation-delay: 1.0s;">l</text>
+    <text class="letter" x="135" y="50" fill="#E6E6FA" style="animation-delay: 1.3s;">s</text>
+    <text class="letter" x="165" y="50" fill="#FFE4B5" style="animation-delay: 1.6s;">t</text>
+    <text class="letter" x="195" y="50" fill="#F0E68C" style="animation-delay: 1.9s;">a</text>
+    <text class="letter" x="225" y="50" fill="#DDA0DD" style="animation-delay: 2.2s;">c</text>
+    <text class="letter" x="255" y="50" fill="#B0E0E6" style="animation-delay: 2.5s;">k</text>
+    <text x="285" y="50" fill="transparent"> </text> <!-- space -->
+    <text class="letter" x="300" y="50" fill="#F5DEB3" style="animation-delay: 2.8s;">D</text>
+    <text class="letter" x="340" y="50" fill="#E0FFFF" style="animation-delay: 3.1s;">e</text>
+    <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">v</text>
+  </g>
 </svg>
