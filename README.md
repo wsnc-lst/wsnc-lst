@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Wisanucha Lerksunthea – Call me "Book"
 
-![Software Developer](https://raw.githubusercontent.com/wsnc-lst/wsnc-lst/main/skills.svg)
+![Software Developer]("https://raw.githubusercontent.com/wsnc-lst/wsnc-lst/main/skills.svg" alt="Software Developer" width="600")
 
 
 </div>
