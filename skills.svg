@@ -35,11 +35,11 @@
     <text class="letter" x="300" y="50" fill="#F5DEB3" style="animation-delay: 2.8s;">D</text>
     <text class="letter" x="340" y="50" fill="#E0FFFF" style="animation-delay: 3.1s;">e</text>
     <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">v</text>
-    <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">e</text>
-    <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">l</text>
-    <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">o</text>
-    <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">p</text>
-    <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">e</text>
-    <text class="letter" x="370" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">r</text>
+    <text class="letter" x="400" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">e</text>
+    <text class="letter" x="430" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">l</text>
+    <text class="letter" x="460" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">o</text>
+    <text class="letter" x="490" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">p</text>
+    <text class="letter" x="520" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">e</text>
+    <text class="letter" x="550" y="50" fill="#FFFACD" style="animation-delay: 3.4s;">r</text>
   </g>
 </svg>
