@@ -17,7 +17,7 @@
 **Tools & Others:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun" />
 
-**Data & Scripting:**  
+**Data, AI/ML, Script Tools:**  
 <img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
 
 ## 📊 GitHub Stats & Activity
