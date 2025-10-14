@@ -2,6 +2,6 @@
 
 # 👋 Hey, I'm Wisanucha Lerksunthea – Call me "Book"
 
-<img src="skills-glow.svg" alt="Fullstack Dev" width="450">  <!-- ปรับ width ให้พอดี profile (350-500) -->
+![Fullstack Dev](https://gradient-svg-generator.vercel.app/api/svg?text=Fullstack%20Dev&template=fadeInPath&color0=fadadd&color1=b5e7a0&color2=e0bbff&color3=a8e6cf&color4=ffd3a5&height=80&duration=5s&gradientType=rainbow)
 
 </div>
