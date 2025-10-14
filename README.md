@@ -9,13 +9,13 @@
 ## 🧰 Tech Stack
 
 **Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,angular" />
 
 **Backend & API:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
 
 **Tools & Others:**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bun" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun" />
 
 ## 📊 GitHub Stats & Activity
 
@@ -28,3 +28,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wsnc-lst&theme=tokyo-night" />
 </p>
+
+## 💬 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+
