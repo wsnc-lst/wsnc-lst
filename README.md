@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,angular" />
 
 **Backend & API:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,php" />
 
 **Tools & Others:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun" />
