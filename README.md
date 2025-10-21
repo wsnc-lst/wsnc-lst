@@ -6,23 +6,24 @@
   <img src="https://raw.githubusercontent.com/wsnc-lst/wsnc-lst/main/skills.svg" alt="Software Developer" />
 </div>
 
-
-
 </div>
 
 ## 🧰 Tech Stack
 
-**Frontend:**  
+🖥️ **Frontend:**  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,angular" />
 
-**Backend & API:**  
+🔧 **Backend & API:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 
-**Database:**  
+🗄️ **Database:**  
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
-**Tools & Others:**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun" />
+☁️ **DevOps & Cloud:**
+<img src="https://skillicons.dev/icons?i=docker,vercel" />
+
+🛠️ **Tools & Utilities:**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun,vite" />
 
 
 ## 📊 GitHub Stats & Activity
