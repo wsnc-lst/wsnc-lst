@@ -20,7 +20,8 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ☁️ **DevOps & Cloud:**
-<img src="https://skillicons.dev/icons?i=docker,vercel" />
+![Docker](https://skillicons.dev/icons?i=docker)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 
 🛠️ **Tools & Utilities:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun,vite" />
