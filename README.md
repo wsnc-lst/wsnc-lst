@@ -11,7 +11,7 @@
 ## 🧰 Tech Stack
 
 🖥️ **Frontend:**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind" />
 
 🔧 **Backend & API:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
