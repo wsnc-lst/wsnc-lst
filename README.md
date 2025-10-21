@@ -16,16 +16,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,react,tailwind,angular" />
 
 **Backend & API:**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-
-**Database:**
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 
 **Tools & Others:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun" />
 
-**Data & AI/ML:**  
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy" />
+**Database:**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ## 📊 GitHub Stats & Activity
 
