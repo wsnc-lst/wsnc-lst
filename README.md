@@ -18,11 +18,12 @@
 **Backend & API:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
 
+**Database:**  
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
 **Tools & Others:**  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,bun" />
 
-**Database:**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 
 ## 📊 GitHub Stats & Activity
 
