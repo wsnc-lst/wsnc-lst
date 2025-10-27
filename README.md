@@ -46,7 +46,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=wsnc-lst&theme=tokyonight&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=wsnc-lst&theme=tokyonight&no-frame=true&no-bg=true)
 
 
 
